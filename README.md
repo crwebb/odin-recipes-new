@@ -18,3 +18,5 @@ With this project I gained a greater understanding into:
 - command line commands & working web dev file structures
 
 - git hub repo cloning and tracking on git hub
+
+- Applying CSS styling from an external sheet to all the different page elements
